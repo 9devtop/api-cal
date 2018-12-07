@@ -8,7 +8,7 @@ namespace CalculatorAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ValuesController : ControllerBase
+    public class CalController : ControllerBase
     {
         [HttpGet]
         [Route("cong/{a}/{b}")]

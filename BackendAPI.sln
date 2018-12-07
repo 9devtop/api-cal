@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorAPI", "CalculatorAPI\CalculatorAPI.csproj", "{45A2945E-6847-453D-BAC0-5BD8B84E9B2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatorAPI", "CalculatorAPI\CalculatorAPI.csproj", "{45A2945E-6847-453D-BAC0-5BD8B84E9B2F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoggerAPI", "LoggerAPI\LoggerAPI.csproj", "{7D6BDE08-0670-4490-94DA-6FAD9426B722}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalAPI", "CalAPI\CalAPI.csproj", "{14C82159-2E0F-4C86-955C-BF3EFDD7E977}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{45A2945E-6847-453D-BAC0-5BD8B84E9B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45A2945E-6847-453D-BAC0-5BD8B84E9B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45A2945E-6847-453D-BAC0-5BD8B84E9B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D6BDE08-0670-4490-94DA-6FAD9426B722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D6BDE08-0670-4490-94DA-6FAD9426B722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D6BDE08-0670-4490-94DA-6FAD9426B722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D6BDE08-0670-4490-94DA-6FAD9426B722}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14C82159-2E0F-4C86-955C-BF3EFDD7E977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C82159-2E0F-4C86-955C-BF3EFDD7E977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C82159-2E0F-4C86-955C-BF3EFDD7E977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C82159-2E0F-4C86-955C-BF3EFDD7E977}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

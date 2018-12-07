@@ -2,12 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <UserSecretsId>f2a12943-9733-4331-bf12-cf82b20c559f</UserSecretsId>
+    <UserSecretsId>b44d9909-b5a8-444c-ab39-37238b892877</UserSecretsId>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Compile Include="..\LoggerAPI\Models\CalLog.cs" Link="CalLog.cs" />
-  </ItemGroup>
 
   <ItemGroup>
     <Folder Include="wwwroot\" />
