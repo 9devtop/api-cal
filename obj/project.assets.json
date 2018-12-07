@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\9DEV\\Backend\\CalculatorAPI\\API.csproj",
+      "projectUniqueName": "D:\\9DEV\\Backend\\CalAPI\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\9DEV\\Backend\\CalculatorAPI\\API.csproj",
+      "projectPath": "D:\\9DEV\\Backend\\CalAPI\\API.csproj",
       "packagesPath": "C:\\Users\\lvtan1\\.nuget\\packages\\",
-      "outputPath": "D:\\9DEV\\Backend\\CalculatorAPI\\obj\\",
+      "outputPath": "D:\\9DEV\\Backend\\CalAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
