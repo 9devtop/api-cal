@@ -1,9 +1,2 @@
-.vs/
-CalculatorAPI/bin/
-CalculatorAPI/obj/Debug/netcoreapp2.1/CalculatorAPI.AssemblyInfo.cs
-CalculatorAPI/obj/Debug/
-LoggerAPI/bin/
-LoggerAPI/obj/Debug/
-CalAPI/obj/Release/
-CalculatorAPI/obj/Release/
-LoggerAPI/obj/Release/
+bin/Release/
+obj/Debug/

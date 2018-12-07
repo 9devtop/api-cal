@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="..\LoggerAPI\Models\CalLog.cs" Link="CalLog.cs" />
   </ItemGroup>
 
   <ItemGroup>

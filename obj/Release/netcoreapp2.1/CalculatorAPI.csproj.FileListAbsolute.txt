@@ -1,0 +1,15 @@
+D:\9DEV\BackendAPI\CalculatorAPI\bin\Release\netcoreapp2.1\CalculatorAPI.deps.json
+D:\9DEV\BackendAPI\CalculatorAPI\bin\Release\netcoreapp2.1\CalculatorAPI.runtimeconfig.json
+D:\9DEV\BackendAPI\CalculatorAPI\bin\Release\netcoreapp2.1\CalculatorAPI.runtimeconfig.dev.json
+D:\9DEV\BackendAPI\CalculatorAPI\bin\Release\netcoreapp2.1\CalculatorAPI.dll
+D:\9DEV\BackendAPI\CalculatorAPI\bin\Release\netcoreapp2.1\CalculatorAPI.pdb
+D:\9DEV\BackendAPI\CalculatorAPI\obj\Release\netcoreapp2.1\CalculatorAPI.csprojAssemblyReference.cache
+D:\9DEV\BackendAPI\CalculatorAPI\obj\Release\netcoreapp2.1\CalculatorAPI.csproj.CoreCompileInputs.cache
+D:\9DEV\BackendAPI\CalculatorAPI\obj\Release\netcoreapp2.1\CalculatorAPI.RazorAssemblyInfo.cache
+D:\9DEV\BackendAPI\CalculatorAPI\obj\Release\netcoreapp2.1\CalculatorAPI.RazorAssemblyInfo.cs
+D:\9DEV\BackendAPI\CalculatorAPI\obj\Release\netcoreapp2.1\CalculatorAPI.AssemblyInfoInputs.cache
+D:\9DEV\BackendAPI\CalculatorAPI\obj\Release\netcoreapp2.1\CalculatorAPI.AssemblyInfo.cs
+D:\9DEV\BackendAPI\CalculatorAPI\obj\Release\netcoreapp2.1\CalculatorAPI.RazorTargetAssemblyInfo.cache
+D:\9DEV\BackendAPI\CalculatorAPI\obj\Release\netcoreapp2.1\CalculatorAPI.dll
+D:\9DEV\BackendAPI\CalculatorAPI\obj\Release\netcoreapp2.1\CalculatorAPI.pdb
+D:\9DEV\BackendAPI\CalculatorAPI\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
