@@ -11507,9 +11507,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\9DEV\\Backend\\CalAPI\\API.csproj",
-      "projectName": "API",
-      "projectPath": "D:\\9DEV\\Backend\\CalAPI\\API.csproj",
+      "projectUniqueName": "D:\\9DEV\\Backend\\CalAPI\\CalAPI.csproj",
+      "projectName": "CalAPI",
+      "projectPath": "D:\\9DEV\\Backend\\CalAPI\\CalAPI.csproj",
       "packagesPath": "C:\\Users\\lvtan1\\.nuget\\packages\\",
       "outputPath": "D:\\9DEV\\Backend\\CalAPI\\obj\\",
       "projectStyle": "PackageReference",
